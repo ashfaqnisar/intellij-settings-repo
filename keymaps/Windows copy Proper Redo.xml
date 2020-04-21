@@ -8,9 +8,11 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Console.History.Browse" />
   <action id="Console.TableResult.SelectRow" />
   <action id="Django.RunManageTaskAction" />
   <action id="EditorDeleteLine" />
+  <action id="PerforceDirect.Edit" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
@@ -18,6 +20,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="ToggleFindInSelection" />
+  <action id="com.eslint">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
     <keyboard-shortcut first-keystroke="shift alt z" />
