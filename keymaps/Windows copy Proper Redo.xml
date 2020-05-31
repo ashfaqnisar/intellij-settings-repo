@@ -12,8 +12,12 @@
   <action id="Console.TableResult.SelectRow" />
   <action id="Django.RunManageTaskAction" />
   <action id="EditorDeleteLine" />
+  <action id="GotoFile" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="PerforceDirect.Edit" />
   <action id="ReformatCode">
