@@ -4,6 +4,7 @@
       <mapping pattern="PlayAgain" type="JSX Harmony" />
       <mapping pattern="orderExceptions" type="PLAIN_TEXT" />
       <mapping pattern="pushTheStudentsData.js" type="PLAIN_TEXT" />
+      <mapping pattern="StudentsTable" type="PLAIN_TEXT" />
       <mapping pattern="MatTableToolbar.jsx" type="PLAIN_TEXT" />
       <mapping pattern="procfile" type="PLAIN_TEXT" />
       <mapping pattern="stringWithNumber" type="TypeScript" />
