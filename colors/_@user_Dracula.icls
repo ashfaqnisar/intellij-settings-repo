@@ -4,11 +4,11 @@
     <property name="created">2019-12-02T23:06:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-03-26T23:36:42</property>
+    <property name="modified">2020-07-12T19:34:45</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
