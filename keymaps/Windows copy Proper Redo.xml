@@ -15,6 +15,9 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="GenerateSciFiAction">
+    <mouse-shortcut keystroke="control alt button3" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile" />
