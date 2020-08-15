@@ -8,11 +8,13 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Console.History.Browse" />
   <action id="Console.TableResult.SelectRow" />
   <action id="Django.RunManageTaskAction" />
   <action id="EditorDeleteLine" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift e" />
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
@@ -20,6 +22,7 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
+  <action id="PerforceDirect.Edit" />
   <action id="PrettierImportCodeStyleAction">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
   </action>
@@ -31,6 +34,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
+  <action id="ToggleFindInSelection" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
